@@ -36,8 +36,12 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+    "node": "16.16.0"
+  },
   "description": "------------------- # Cocktails Website",
   "main": "index.js",
   "author": "",
   "license": "ISC"
 }
+
